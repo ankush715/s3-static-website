@@ -54,14 +54,6 @@ This project demonstrates how to host a static website using AWS S3 with public 
 
 ---
 
-## 📸 Output
-
-👉 Live website hosted on AWS S3
-
-(Add your website screenshot here)
-
----
-
 ## 💡 Learning Outcomes
 
 * AWS S3 static hosting
